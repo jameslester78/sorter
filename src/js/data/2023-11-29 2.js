@@ -105,13 +105,6 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Resistance Is Futile",
-    img: "nfTJLVu.png",
-    opts: {
-      series: [ "Gold"]
-    }
-  },
-  {
     name: "The Ultra Vivid Lament",
     img: "9VgDlS2.png",
     opts: {
