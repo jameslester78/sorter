@@ -61,5 +61,61 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "Gold"]
     }
+  },
+  {
+    name: "Send Away The Tigers",
+    img: "nc9S6Q4.png",
+    opts: {
+      series: [ "Gold"]
+    }
+  },
+  {
+    name: "Journal For Plague Lovers",
+    img: "umoUHHP.png",
+    opts: {
+      series: [ "Gold"]
+    }
+  },
+  {
+    name: "Postcard For A Young Man",
+    img: "Rw8N7a5.png",
+    opts: {
+      series: [ "Gold"]
+    }
+  },
+  {
+    name: "Rewind The Film",
+    img: "g0MJTU2.png",
+    opts: {
+      series: [ "Gold"]
+    }
+  },
+  {
+    name: "Futurology",
+    img: "PKB4D2c.png",
+    opts: {
+      series: [ "Gold"]
+    }
+  },
+  {
+    name: "Resistance Is Futile",
+    img: "nfTJLVu.png",
+    opts: {
+      series: [ "Gold"]
+    }
+  },
+  {
+    name: "Resistance Is Futile",
+    img: "nfTJLVu.png",
+    opts: {
+      series: [ "Gold"]
+    }
+  },
+  {
+    name: "The Ultra Vivid Lament",
+    img: "9VgDlS2.png",
+    opts: {
+      series: [ "Gold"]
+    }
   }
 ];
